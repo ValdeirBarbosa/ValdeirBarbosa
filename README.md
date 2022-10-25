@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ValdeirBarbosa
-- 👀 I’m interested in Web Develop, Coding 
+- 👀 I’m interested Web Development, coding, Low Code 
 - 🌱 I’m currently learning JS, HTML, CSS e NodeJS
 - 💞️ I’m looking to collaborate on open to serve!
 - 📫 How to reach me <a href="https://www.linkedin.com/in/valdeir-a-barbosa/">Linkedin</a>
